@@ -11,6 +11,7 @@ function calculate() {
     }
 }
 
+let rolled = false;
 
 let data, ai;
 
